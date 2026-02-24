@@ -50,13 +50,13 @@ if (form) {
   });
 }
 
-// Responsive Test Toolbar Function
+// // Responsive Test Toolbar Function
 // function resizeWindow(w, h) {
 //   alert(
 //     "Browsers block resizing tabs.\n" +
 //     "Use Chrome DevTools → Toggle Device Toolbar (Ctrl + Shift + M)"
 //   );
 // }
-function toggleSidebar() {
-  document.getElementById("sidebar").classList.toggle("active");
-}
+// function toggleSidebar() {
+//   document.getElementById("sidebar").classList.toggle("active");
+// }
